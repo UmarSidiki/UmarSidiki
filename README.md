@@ -17,7 +17,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarSidiki&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150px"/>
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=UmarSidiki&theme=default&hide_border=false" height="150px"/>
+
 
   </div>
 </div>
@@ -31,14 +31,8 @@
         <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
       </td>
       <td align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=UmarSidiki&limit=5&theme=default&combine_all_yearly_contributions=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=UmarSidiki&theme=default&hide_border=false" height="150px"/>
       </td>
     </tr>
   </table>
 </div>
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UmarSidiki&theme=default&no-frame=false&no-bg=false&margin-w=4)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
