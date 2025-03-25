@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋! Me? Umar Siddiqui a Full-Stack Developer from Pakistan 🇵🇰
 🔭 I’m currently working on:<br>Developing freelance projects & Improving my personal Skills.<br><br>👯 I’m looking to collaborate on:<br>Innovative web and mobile projects that push the boundaries of user experience and seamless integration.<br><br>🤝 I’m looking for help with:<br>Scaling backend services and integrating modern APIs to enhance project functionality.<br><br>🌱 I’m currently learning:<br>Advanced Node.js techniques and cloud deployment strategies to streamline development workflows.<br><br>💬 Ask me about:<br>Full-Stack Developer, UI/UX design, and my journey as a self-taught developer building creative solutions.<br><br>⚡ Fun fact:<br>Still Alive, Not Dead! 😁
 
 
